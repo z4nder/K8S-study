@@ -1,0 +1,1 @@
+O objeto de service tem o papel de fornecer conectividade
