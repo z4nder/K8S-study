@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "ebe49747fe90d1f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76fd233b57516d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3925ad4fc3c650a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f5d1eaf00e3f797",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1fc8d9bac4eb24d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5502071b0a07ef18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88738cea6f4ff3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83e1bbc442347e84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eb7a764824d4843",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3c7dcb27de9efaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1a41fddce5493b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d52b56c5515ab44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "396982817f2409d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4333878f708d3559",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3925ad4fc3c650a3",
+  "lastOpenFiles": [
+    "Kubernets/Instalando e usando.md",
+    "Kubernets/Historia dos deploys.md",
+    "Kubernets/K8s - Visão Geral.md",
+    "Kubernets/K8s Quick start.md",
+    "Images/Pasted image 20240111145928.png",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "2024-01-11.md",
+    "Untitled.canvas",
+    "Livros.md",
+    "Kubernets/Borg o pai do K8s.md",
+    "Docker/Containers are chroot.md",
+    "Docker",
+    "Grafana/Hello Grafana.md",
+    "Welcome.md"
+  ]
+}
